@@ -1,4 +1,4 @@
 ## VSASV: a Vietnamese Dataset for Spoofing-Aware Speaker Verification
-URL to full dataset (divided into spoofed and bona fide folders): https://drive.google.com/drive/folders/1osot0X7rgmNZ5Bl5qXLadEs37-VvFlnW?usp=drive_link
-
+The dataset comprises the [Vietnam-Celeb](https://github.com/Vietnam-Celeb/Vietnam-Celeb) as a subset of bona fide speech, where the speakers are encoded with IDs from 00000 to 00999.
+The rest of the VSASV Dataset can be downloaded [here](https://drive.google.com/drive/folders/1SZOrLC7ZvPaL9dhtkcUND850TL3L2Hai?usp=drive_link).
 Contact email: longvu200502@gmail.com.
